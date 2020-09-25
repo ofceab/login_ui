@@ -1,10 +1,9 @@
 # login_ui
 
-A new Flutter project.
+A Login ui build using flutter
+and without interaction functions
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+## To Getting Started with flutter : 
 
 A few resources to get you started if this is your first Flutter project:
 
